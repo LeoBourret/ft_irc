@@ -4,8 +4,8 @@
 ![Standard: C++98](https://img.shields.io/badge/Standard-C%2B%2B98-orange.svg)
 ![Network: TCP/IP](https://img.shields.io/badge/Network-TCP%2FIP-red.svg)
 ![Sync: non-blocking I/O](https://img.shields.io/badge/Sync-non--blocking_I%2FO-blueviolet.svg)
-![School: 42 Paris](https://img.io/badge/School-42_Paris-orange.svg)
-![Grade: 125/100](https://img.io/badge/Grade-125/100-brightgreen.svg)
+![School: 42 Paris](https://img.shields.io/badge/School-42_Paris-orange.svg)
+![Grade: 125/100](https://img.shields.io/badge/Grade-125/100-brightgreen.svg)
 ![Team Project](https://img.shields.io/badge/Team_Project-Yes-blue.svg)
 
 ## ✨ Overview
